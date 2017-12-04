@@ -14,6 +14,6 @@ public class TestJava {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("This is test project");
+        System.out.println("This is test project and second line added");
     }
 }
